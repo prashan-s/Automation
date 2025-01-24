@@ -10,3 +10,7 @@
 [submodule "JR - Generate - Note"]
     path = JR - Generate - Note
     url = https://github.com/prashan-s/Automate-Generate-QA-Note.git
+
+[submodule "BH - Firebase dSYM Upload"]
+    path = BH - Firebase dSYM Upload
+    url = https://github.com/prashan-s/Automate-Firebase-DSYM-Upload.git
