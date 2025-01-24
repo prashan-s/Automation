@@ -6,3 +6,7 @@
 [submodule "BH - Spell Variation"]
     path = BH - Spell Variation
     url = https://github.com/prashan-s/Generate-Spell-Variations.git
+
+[submodule "JR - Generate - Note"]
+    path = JR - Generate - Note
+    url = https://github.com/prashan-s/Automate-Generate-QA-Note.git
