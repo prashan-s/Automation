@@ -30,3 +30,7 @@
 [submodule "BH - Firebase dSYM Upload"]
     path = BH - Firebase dSYM Upload
     url = https://github.com/prashan-s/Automate-Firebase-DSYM-Upload.git
+
+[submodule "BH-Figma-Automate-HK-KeyboardThemes"]
+    path = BH-Figma-Automate-HK-KeyboardThemes
+    url = https://github.com/prashan-s/Automate-Fetch-Figma-Colors.git
