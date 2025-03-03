@@ -41,7 +41,7 @@ with open(input_csv, encoding="utf-8") as file:
 # Output the generated mappings to a text file
 output_ios_file = "./Output/processed-variation-ios.txt"
 output_android_file = "./Output/processed-variation-android.txt"
-columns = 1
+columns = 10
 c_increment = 1
 i_increment = 1
 put_new_line = "\n" if c_increment == 0 else " "
