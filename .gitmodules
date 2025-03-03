@@ -74,3 +74,7 @@
 [submodule "PT - PDF Meta Remover"]
     path = PT - PDF Meta Remover
     url = https://github.com/prashan-s/Automate-PDF-Meta-Remover.git
+
+[submodule "BH - Spell Variation"]
+    path = BH - Spell Variation
+    url = https://github.com/prashan-s/Generate-Spell-Variations.git
